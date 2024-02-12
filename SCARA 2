@@ -1,8 +1,8 @@
 disp('SCARA_2')
-
+%% SCARA
 syms a1 a2 a3 a4 a5
 
-%% Link lengths
+% Link lengths
 
 a1 = 5;
 a2 = 5;
@@ -10,7 +10,7 @@ a3 = 5;
 a4 = 5;
 a5 = 5;
 
-%% D-H Parameters [theta, d, r, alpha, offset]
+% D-H Parameters [theta, d, r, alpha, offset]
 
 H1 = Link([0,a1,a3,0,1,a2]);
 H1.qlim = [0 5];
