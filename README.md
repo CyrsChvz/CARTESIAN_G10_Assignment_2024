@@ -1,5 +1,5 @@
 # Cartesian_Group10_Assignment_2024
-## Kinematic Diagram and Parametric Table
+## Kinematic Diagram and Parametric Tables
 ### 1. _SPHERICAL MANIPULATOR - MODERN VARIANT_
 ![spherical modern](https://github.com/CyrsChvz/Robotics-2-Project/assets/157597327/06745873-e332-4d32-8422-e95b83911811)
 ![spherical](https://github.com/CyrsChvz/images-for-assignment/assets/157597327/dbacfb97-ddf2-4edc-9801-c36be42caf4a)
