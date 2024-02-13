@@ -1,4 +1,5 @@
 disp('Spherical_1')
+syms a1 a2 a3
 %% Spherical
 
 % Link lengths
