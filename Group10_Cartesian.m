@@ -1,5 +1,5 @@
 disp('Cartesian_1')
-%% cartesian
+% cartesian
 syms a1 a2 a3 a4 d1 d2 d3
 
 % Link lengths
