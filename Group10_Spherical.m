@@ -8,7 +8,7 @@ a1 = 5;
 a2 = 2;
 a3 = 2;
 
-%% Joint Variables
+%% Joint Variables for Spherical Manipulator
 
 d3 = 3;
 
