@@ -10,7 +10,7 @@ a3 = 5;
 a4 = 5;
 a5 = 5;
 
-% Joint Variables
+% Joint Variables for SCARA
 
 d1 = 5;
 
