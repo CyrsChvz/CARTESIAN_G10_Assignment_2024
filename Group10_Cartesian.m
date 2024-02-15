@@ -9,7 +9,7 @@ a2 = 2;
 a3 = 2;
 a4 = 2;
 
-% Joint Variables
+% Joint Variables for Cartesian Manipulator
 
 d1 = 2;
 d2 = 2;
