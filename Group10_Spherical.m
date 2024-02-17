@@ -4,13 +4,13 @@ syms a1 a2 a3
 
 % Link lengths
 
-a1 = 10;
-a2 = 4;
-a3 = 4;
+a1 = 5;
+a2 = 2;
+a3 = 2;
 
 %% Joint Variables for Spherical Manipulator
 
-d3 = 6;
+d3 = 3;
 
 % D-H Parameters [theta, d, r, alpha, offset]
 
