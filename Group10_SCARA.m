@@ -30,7 +30,7 @@ H4.qlim = [-pi/2 pi/2];
 
 SCARA_1 = SerialLink([H1 H2 H3 H4], 'name', 'SCARA_1');
 
-SCARA_1.plot([0 0 0 0], 'workspace', [-20 20 -20 20 -20 20 -20 20])
+SCARA_1.plot([10 10 10 10], 'workspace', [20 -20 20 -20 20 -20 20 -20])
 
 SCARA_1.teach
 
