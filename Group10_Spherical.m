@@ -1,18 +1,18 @@
 disp('Spherical_1')
 syms a1 a2 a3
-%% Spherical
+% Spherical
 
-%% Link lengths
+% Link lengths
 
-a1 = 5;
-a2 = 2;
-a3 = 2;
+a1 = 10;
+a2 = 4;
+a3 = 4;
 
 %% Joint Variables for Spherical Manipulator
 
-d3 = 3;
+d3 = 6;
 
-%% D-H Parameters [theta, d, r, alpha, offset]
+% D-H Parameters [theta, d, r, alpha, offset]
 
 H1 = Link([0,a1,0,pi/2,0,0]);
 H1.qlim = [-pi/2 pi/2];
