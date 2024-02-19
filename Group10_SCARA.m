@@ -2,7 +2,7 @@ disp('SCARA_1')
 syms a1 a2 a3 a4
 % SCARA
 
-% Link lengths
+% Link lengths a1,
 
 a1 = 5;
 a2 = 5;
